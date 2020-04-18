@@ -1,6 +1,6 @@
 # servicenow-instance-wakeup
 
-This app is here to help you with wakeing up your instance if needed.
+This app is here to help you with waking up your instance if needed.
 
 All of you who work with dev instances, you know what is this about.
 Dev instances expire after a specific time period.
